@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget id="com.example.eguaacheiv01" version="1.0.0" xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets">
-  <name>eguaachei_v01</name>
+  <name>appme</name>
   <description>
   </description>
   <icon src="/icons/android/icon-hdpi.png" gap:density="hdpi" gap:platform="android" />
